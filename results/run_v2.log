@@ -1,0 +1,841 @@
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /index.html?lang=en HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /i18n.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /bugs.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /fonts/noto-sans-latin-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /fonts/noto-sans-latin-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /fonts/noto-sans-bengali-bengali-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /fonts/noto-sans-tamil-tamil-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /fonts/noto-sans-thai-thai-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /index.html?lang=en&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /index.html?lang=en&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /index.html?lang=en&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /index.html?lang=en&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:58] "GET /index.html?lang=en&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:09:59] "GET /index.html?lang=en&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:00] "GET /index.html?lang=en&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /fonts/noto-sans-latin-ext-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /fonts/noto-sans-latin-ext-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:01] "GET /index.html?lang=pseudo&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:02] "GET /index.html?lang=pseudo&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=pseudo&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=pseudo&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=pseudo&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=pseudo&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=pseudo&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=pseudo&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=pseudo&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=pseudo&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=zh HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /fonts/noto-sans-bengali-bengali-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /fonts/noto-sans-tamil-tamil-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /fonts/noto-sans-thai-thai-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=zh&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=zh&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=zh&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=zh&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:03] "GET /index.html?lang=zh&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:04] "GET /index.html?lang=zh&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=zh&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=bn HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:05] "GET /index.html?lang=bn&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:06] "GET /index.html?lang=bn&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:07] "GET /index.html?lang=bn&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:08] "GET /index.html?lang=ta&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:09] "GET /index.html?lang=ta&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=ta&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:10] "GET /index.html?lang=th&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:11] "GET /index.html?lang=th&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=th&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=th&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=th&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=en HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /i18n.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /bugs.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /fonts/noto-sans-latin-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /fonts/noto-sans-latin-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /fonts/noto-sans-bengali-bengali-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /fonts/noto-sans-tamil-tamil-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /fonts/noto-sans-thai-thai-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=en&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=en&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=en&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=en&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=en&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=en&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=en&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:12] "GET /index.html?lang=en&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:13] "GET /index.html?lang=en&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=en&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=en&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=en&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=en&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=en&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=en&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=en&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=en&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=en&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=pseudo HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /fonts/noto-sans-latin-ext-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /fonts/noto-sans-latin-ext-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=pseudo&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=pseudo&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=pseudo&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=pseudo&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:14] "GET /index.html?lang=pseudo&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:15] "GET /index.html?lang=pseudo&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=pseudo&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=zh HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /fonts/noto-sans-bengali-bengali-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /fonts/noto-sans-tamil-tamil-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /fonts/noto-sans-thai-thai-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:16] "GET /index.html?lang=zh&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:17] "GET /index.html?lang=zh&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:18] "GET /index.html?lang=zh&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=zh&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=zh&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=zh&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=bn HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=bn&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=bn&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=bn&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=bn&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=bn&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=bn&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=bn&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=bn&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:19] "GET /index.html?lang=bn&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:20] "GET /index.html?lang=bn&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=bn&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=bn&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=bn&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=bn&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=bn&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=bn&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=bn&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=bn&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=bn&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=bn&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=ta HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=ta&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=ta&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:21] "GET /index.html?lang=ta&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:22] "GET /index.html?lang=ta&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:23] "GET /index.html?lang=ta&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=ta&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=ta&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=th HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=th&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=th&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=th&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=th&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=th&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=th&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=th&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:24] "GET /index.html?lang=th&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:25] "GET /index.html?lang=th&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:26] "GET /index.html?lang=th&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /i18n.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /bugs.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /fonts/noto-sans-latin-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /fonts/noto-sans-latin-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /fonts/noto-sans-bengali-bengali-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /fonts/noto-sans-tamil-tamil-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /fonts/noto-sans-thai-thai-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:27] "GET /index.html?lang=en&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:28] "GET /index.html?lang=en&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=en&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=en&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=en&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=en&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=en&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=en&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=pseudo HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /fonts/noto-sans-latin-ext-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /fonts/noto-sans-latin-ext-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=pseudo&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=pseudo&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=pseudo&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=pseudo&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=pseudo&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=pseudo&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:29] "GET /index.html?lang=pseudo&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:30] "GET /index.html?lang=pseudo&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=pseudo&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=zh HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /fonts/noto-sans-bengali-bengali-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /fonts/noto-sans-tamil-tamil-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /fonts/noto-sans-thai-thai-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=zh&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=zh&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:31] "GET /index.html?lang=zh&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:32] "GET /index.html?lang=zh&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=zh&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=bn HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=bn&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:33] "GET /index.html?lang=bn&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:34] "GET /index.html?lang=bn&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=bn&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:35] "GET /index.html?lang=ta HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:36] "GET /index.html?lang=ta&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=ta&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:37] "GET /index.html?lang=th HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:38] "GET /index.html?lang=th&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=B01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=B02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=B03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=B04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=B05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:39] "GET /index.html?lang=th&bug=B06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /index.html?lang=th&bug=B07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /index.html?lang=th&bug=B08 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /index.html?lang=en&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /i18n.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /bugs.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /fonts/noto-sans-latin-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /fonts/noto-sans-bengali-bengali-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /fonts/noto-sans-latin-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /fonts/noto-sans-tamil-tamil-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /fonts/noto-sans-thai-thai-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /index.html?lang=ta&bug=D01 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /fonts/noto-sans-bengali-bengali-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /fonts/noto-sans-tamil-tamil-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /index.html?lang=en&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /index.html?lang=ta&bug=D02 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /index.html?lang=en&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:40] "GET /index.html?lang=ta&bug=D03 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:41] "GET /index.html?lang=en&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:41] "GET /index.html?lang=ta&bug=D04 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:41] "GET /index.html?lang=en&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:41] "GET /index.html?lang=ta&bug=D05 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:10:41] "GET /index.html?lang=en&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:11] "GET /index.html?lang=ta&bug=D06 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:11] "GET /bugs.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /index.html?lang=en&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /i18n.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /bugs.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /fonts/noto-sans-latin-400-normal.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /fonts/noto-sans-latin-700-normal.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /fonts/noto-sans-bengali-bengali-400-normal.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /fonts/noto-sans-tamil-tamil-400-normal.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /fonts/noto-sans-thai-thai-400-normal.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /index.html?lang=ta&bug=D07 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /fonts/noto-sans-bengali-bengali-700-normal.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /fonts/noto-sans-tamil-tamil-700-normal.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [15/Oct/2026 17:11:41] "GET /index.html?lang=en&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:42] "GET /index.html?lang=ta&bug=D09 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:42] "GET /index.html?lang=en&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:42] "GET /index.html?lang=ta&bug=D10 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:42] "GET /index.html?lang=en&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:42] "GET /index.html?lang=ta&bug=D11 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:42] "GET /index.html?lang=en&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:42] "GET /index.html?lang=ta&bug=D12 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:43] "GET /index.html?lang=en&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:43] "GET /index.html?lang=ta&bug=D13 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:43] "GET /index.html?lang=en&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:43] "GET /index.html?lang=ta&bug=D14 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:43] "GET /index.html?lang=en&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:43] "GET /index.html?lang=ta&bug=D15 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:43] "GET /index.html?lang=en&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:43] "GET /index.html?lang=ta&bug=D16 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:43] "GET /index.html?lang=en&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:44] "GET /index.html?lang=ta&bug=D17 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:44] "GET /index.html?lang=en&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:44] "GET /index.html?lang=ta&bug=D18 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:44] "GET /index.html?lang=en&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:44] "GET /index.html?lang=ta&bug=D19 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:44] "GET /index.html?lang=en&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:44] "GET /index.html?lang=ta&bug=D20 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:44] "GET /index.html?lang=en&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:44] "GET /index.html?lang=pseudo&bug=D21 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:45] "GET /fonts/noto-sans-latin-ext-700-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:45] "GET /fonts/noto-sans-latin-ext-400-normal.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:45] "GET /index.html?lang=en&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:45] "GET /index.html?lang=ta&bug=D22 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:45] "GET /index.html?lang=en&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:45] "GET /index.html?lang=ta&bug=D23 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:45] "GET /index.html?lang=en&bug=D24 HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 17:11:45] "GET /index.html?lang=ta&bug=D24 HTTP/1.1" 200 -
+{
+ "generated": "2026-10-15 17:11",
+ "runs": 594,
+ "seconds": 108.2,
+ "languages": [
+  "en",
+  "pseudo",
+  "zh",
+  "bn",
+  "ta",
+  "th"
+ ],
+ "viewports": [
+  320,
+  360,
+  412
+ ],
+ "clean_baseline_findings": {
+  "en": 0,
+  "pseudo": 0,
+  "zh": 0,
+  "bn": 0,
+  "ta": 0,
+  "th": 0
+ },
+ "scores": {
+  "English only": {
+   "languages": [
+    "en"
+   ],
+   "caught": [
+    "D01",
+    "D04",
+    "D06",
+    "D07",
+    "D09",
+    "D10",
+    "D11",
+    "D14",
+    "D16",
+    "D17",
+    "D18",
+    "D19",
+    "D20",
+    "D22",
+    "D23"
+   ],
+   "caught_n": 15,
+   "defects_n": 24,
+   "false_alarms": [],
+   "false_alarm_n": 0,
+   "benign_n": 8,
+   "page_loads_per_release": 3
+  },
+  "English + pseudo-localisation": {
+   "languages": [
+    "en",
+    "pseudo"
+   ],
+   "caught": [
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D06",
+    "D07",
+    "D09",
+    "D10",
+    "D11",
+    "D12",
+    "D13",
+    "D14",
+    "D15",
+    "D16",
+    "D17",
+    "D18",
+    "D19",
+    "D20",
+    "D21",
+    "D22",
+    "D23",
+    "D24"
+   ],
+   "caught_n": 23,
+   "defects_n": 24,
+   "false_alarms": [],
+   "false_alarm_n": 0,
+   "benign_n": 8,
+   "page_loads_per_release": 6
+  },
+  "English + real languages": {
+   "languages": [
+    "en",
+    "zh",
+    "bn",
+    "ta",
+    "th"
+   ],
+   "caught": [
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D06",
+    "D07",
+    "D09",
+    "D10",
+    "D11",
+    "D12",
+    "D13",
+    "D14",
+    "D15",
+    "D16",
+    "D17",
+    "D18",
+    "D19",
+    "D20",
+    "D22",
+    "D23",
+    "D24"
+   ],
+   "caught_n": 22,
+   "defects_n": 24,
+   "false_alarms": [],
+   "false_alarm_n": 0,
+   "benign_n": 8,
+   "page_loads_per_release": 15
+  }
+ },
+ "per_language_catches": {
+  "en": 15,
+  "pseudo": 23,
+  "zh": 12,
+  "bn": 13,
+  "ta": 22,
+  "th": 12
+ },
+ "caught_only_by_real_languages": [],
+ "missed_by_everything": [
+  "D08"
+ ]
+}

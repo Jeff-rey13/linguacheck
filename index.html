@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>LinguaCheck</title>
+<style>
+  :root { --bg:#f6f7f6; --card:#fff; --ink:#16201b; --muted:#56635c; --line:#d8dfdb; --accent:#0b6b57; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg:#111614; --card:#1a211e; --ink:#e6ece9; --muted:#9fb0a8; --line:#2d3833; --accent:#4cc3a3; } }
+  :root[data-theme="dark"] { --bg:#111614; --card:#1a211e; --ink:#e6ece9; --muted:#9fb0a8; --line:#2d3833; --accent:#4cc3a3; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  .wrap { max-width:720px; margin:0 auto; padding:48px 16px 64px; }
+  h1 { font-size:34px; margin:0 0 4px; }
+  .sub { color:var(--muted); margin:0 0 28px; }
+  .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; margin:24px 0; }
+  .stat { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; }
+  .stat b { display:block; font-size:28px; line-height:1.1; }
+  .stat span { color:var(--muted); font-size:14px; }
+  .links { display:grid; gap:10px; margin:28px 0; }
+  .links a { display:block; background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; color:var(--ink); text-decoration:none; }
+  .links a b { color:var(--accent); }
+  .links a span { display:block; color:var(--muted); font-size:15px; }
+  .links a:hover, .links a:focus-visible { border-color:var(--accent); }
+  .note { color:var(--muted); font-size:14px; border-top:1px solid var(--line); padding-top:16px; margin-top:32px; }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <h1>LinguaCheck</h1>
+  <p class="sub">Multilingual UI regression testing for mobile eServices · Noel Jeffrey Narala Thomas</p>
+
+  <p>Apps for migrant workers are offered in several languages, but UI tests usually run in English only. A button that fits "Confirm booking" can clip the same label in Tamil. LinguaCheck measures how many layout bugs English-only testing misses, and the cheapest way to catch them.</p>
+
+  <div class="stats">
+    <div class="stat"><b>15/24</b><span>seeded defects caught by English-only tests</span></div>
+    <div class="stat"><b>23/24</b><span>caught by adding pseudo-localisation</span></div>
+    <div class="stat"><b>0/8</b><span>false alarms on harmless changes</span></div>
+  </div>
+
+  <div class="links">
+    <a href="app/"><b>Try the demo →</b><span>Switch languages and apply seeded bugs to see what breaks.</span></a>
+    <a href="report/"><b>Read the results →</b><span>Strategy comparison, screenshots and limitations.</span></a>
+    <a href="https://github.com/Jeff-rey13/linguacheck"><b>Source code →</b><span>Python + Playwright harness, test checks and CI workflow.</span></a>
+  </div>
+
+  <p class="note">Demo only. Not affiliated with any government agency. No real user data is collected or stored, and the name field is never submitted anywhere. Translations are machine-generated and unreviewed.</p>
+</main>
+</body>
+</html>
